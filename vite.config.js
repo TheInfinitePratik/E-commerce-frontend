@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/E-commerce-frontend/',
   plugins: [react()],
 })
+
